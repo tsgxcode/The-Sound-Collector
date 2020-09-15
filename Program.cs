@@ -18,12 +18,13 @@ namespace TheSoundCollector
             
             //Making it pretty :)
             Console.ForegroundColor = ConsoleColor.Cyan;
+
             Console.WriteLine("Collecting Sounds From Everywhere! ");
 
             Console.ResetColor();
 
-
-
         }
+
+
     }
 }
